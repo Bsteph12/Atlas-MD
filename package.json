@@ -1,5 +1,5 @@
 {
-  "name": "atlas",
+  "name": "stephane",
   "version": "3.1.0",
   "description": "The future of WhatsApp bots now with plugin support.",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "baileys bot",
     "md bot"
   ],
-  "author": "FantoX001",
+  "author": "stephaneX",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FantoX001/Atlas-MD/issues"
